@@ -15,6 +15,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentatio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MBCleanArchitecture.Domain", "MBCleanArchitecture.Domain\MBCleanArchitecture.Domain.csproj", "{CAE32D47-69B1-4558-84F7-02CFF5CE5340}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MBCleanArchitecture.Infra.Data", "MBCleanArchitecture.Infra.Data\MBCleanArchitecture.Infra.Data.csproj", "{EE5B63AF-5680-4904-81CD-A2DBB5F4DF0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,12 +27,17 @@ Global
 		{CAE32D47-69B1-4558-84F7-02CFF5CE5340}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAE32D47-69B1-4558-84F7-02CFF5CE5340}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAE32D47-69B1-4558-84F7-02CFF5CE5340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE5B63AF-5680-4904-81CD-A2DBB5F4DF0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE5B63AF-5680-4904-81CD-A2DBB5F4DF0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE5B63AF-5680-4904-81CD-A2DBB5F4DF0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE5B63AF-5680-4904-81CD-A2DBB5F4DF0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{CAE32D47-69B1-4558-84F7-02CFF5CE5340} = {9F858EFD-0381-429A-A3DE-47ACF68A4E3D}
+		{EE5B63AF-5680-4904-81CD-A2DBB5F4DF0D} = {26AB51DB-7DF9-47C7-BED0-66DE58F68229}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4475299C-2512-44A8-B712-18A946213B2C}
