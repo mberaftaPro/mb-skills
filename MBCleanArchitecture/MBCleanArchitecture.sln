@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra.IoC", "Infra.IoC", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra.Data", "Infra.Data", "{26AB51DB-7DF9-47C7-BED0-66DE58F68229}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{D9D206F4-76CD-4677-B3D3-7A6B4E64090B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{D9D206F4-76CD-4677-B3D3-7A6B4E64090B}"
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
